@@ -1,0 +1,12 @@
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\bin\Debug\FitnessOtoPro.exe.config
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\bin\Debug\FitnessOtoPro.exe
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\bin\Debug\FitnessOtoPro.pdb
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.csprojResolveAssemblyReference.cache
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.Login.resources
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.Properties.Resources.resources
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.csproj.GenerateResource.Cache
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.exe
+c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.pdb
+C:\Users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.Main.resources
+C:\Users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.Register.resources
+C:\Users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.LoginDesign.resources
