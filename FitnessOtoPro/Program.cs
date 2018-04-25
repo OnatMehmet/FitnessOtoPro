@@ -16,7 +16,7 @@ namespace FitnessOtoPro
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LoginDesign());
+            Application.Run(new Login());
         }
     }
 }

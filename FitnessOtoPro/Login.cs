@@ -16,24 +16,6 @@ namespace FitnessOtoPro
         {
             InitializeComponent();
         }
-        
-        private void btnLog_Click(object sender, EventArgs e)
-        {
-           // groupBox1.Visible = true;
-
-            if (txtUser.Text == "admin" && txtPassword.Text == "123")
-            {
-                Main log = new Main();
-                log.Show();
-                this.Hide();
-            }
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
-
     
         private void Login_Load(object sender, EventArgs e)
         {
@@ -41,16 +23,16 @@ namespace FitnessOtoPro
            
         }
 
+        private void btnLog_Click_1(object sender, EventArgs e)
+        { // groupBox1.Visible = true;
 
+            if (txtUser.Text == "admin" && txtPassword.Text == "123")
+            {
+                Main log = new Main();
+                log.Show();
+                this.Hide();
+            }
 
-        private void txtPassword_MouseClick(object sender, MouseEventArgs e)
-        {
-            txtPassword.BackColor = Color.White;
-        }
-
-        private void txtUser_MouseClick(object sender, MouseEventArgs e)
-        {
-            txtUser.BackColor = Color.White;
         }
     }
 }
