@@ -7,5 +7,5 @@ c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\Fitne
 c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.csproj.GenerateResource.Cache
 c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.exe
 c:\users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.pdb
-C:\Users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.Main.resources
 C:\Users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.Register.resources
+C:\Users\mehme\onedrive\belgeler\visual studio 2015\Projects\FitnessOtoPro\FitnessOtoPro\obj\Debug\FitnessOtoPro.MainForm.resources

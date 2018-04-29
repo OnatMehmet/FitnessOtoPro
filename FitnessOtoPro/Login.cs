@@ -16,22 +16,19 @@ namespace FitnessOtoPro
         {
             InitializeComponent();
         }
-    
-        private void Login_Load(object sender, EventArgs e)
+
+        private void btnLog_Click(object sender, EventArgs e)
         {
-            
-           
+            MainForm log = new MainForm();
+            log.Show();
+            this.Hide();
         }
 
-        private void btnLog_Click_1(object sender, EventArgs e)
-        { // groupBox1.Visible = true;
+     
 
-            if (txtUser.Text == "admin" && txtPassword.Text == "123")
-            {
-                Main log = new Main();
-                log.Show();
-                this.Hide();
-            }
+        private void pictureBox1_Click_1(object sender, EventArgs e)
+        {
+            pictureBox1.Visible = false;
 
         }
     }
